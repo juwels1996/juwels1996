@@ -82,7 +82,8 @@ CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:50207',
     'http://127.0.0.1:50207',
-    'http://192.168.0.66:50207'
+    'http://192.168.0.66:50207',
+    "https://juwels1996.github.io/juwels1996"
 ]
 
 
